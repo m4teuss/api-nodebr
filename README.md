@@ -21,6 +21,9 @@
     
 #### Trabalhando com múltiplos banco de dados
     - Introdução a Design Patters
+    
+#### Criando serviços profissionais com Hapi.js
+    - Node.js e Web Services
   
     
     
