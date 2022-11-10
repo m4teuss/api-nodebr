@@ -29,7 +29,6 @@ function obterTelefone(idUsuario, callback) {
         })
 
     }, 2000);
-
 }
 
 function obterEndereco(idUsuario, callback) {
