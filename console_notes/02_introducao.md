@@ -6,4 +6,4 @@
 
 # O que é Node.JS
 - É uma plataforma para construção de aplicação Backend usando Javascript
-  
+- É usada para construção de ferramentas de linha de comando
