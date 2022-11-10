@@ -1,2 +1,4 @@
 # api-nodebr
-Course
+
+## Tópicos Abordados
+    - Sincronia  de Funções JavaScript
